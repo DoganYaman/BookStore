@@ -31,3 +31,8 @@ D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\obj\Debug\ne
 D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\obj\Debug\net5.0\WebApi.pdb
 D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
 D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
