@@ -38,3 +38,4 @@ D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\bin\Debug\ne
 D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\bin\Debug\net5.0\AutoMapper.dll
 D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PatikaDev\Patika_Pratikler\Orta-NETCore\NetCore\BookStore\WebApi\bin\Debug\net5.0\FluentValidation.dll
