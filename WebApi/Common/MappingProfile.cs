@@ -1,6 +1,7 @@
 using System.Runtime.InteropServices;
 using AutoMapper;
 using WebApi.BookOperations.GetBookDetail;
+using WebApi.Entities;
 using static WebApi.BookOperations.CreateBook.CreateBookCommand;
 using static WebApi.BookOperations.GetBooks.GetBooksQuery;
 
