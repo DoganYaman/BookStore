@@ -3,12 +3,12 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using WebApi.DBOperations;
 
-namespace WebApi.BookOperations.DeleteBook
+namespace WebApi.Application.BookOperations.Commands.DeleteBook
  {
     public class DeleteBookCommand
     {
-        private readonly BookStoreDbContext _dbContext;
         public int BookId { get; set; }
+        private readonly BookStoreDbContext _dbContext;
 
         public DeleteBookCommand(BookStoreDbContext dbContext)
         {
