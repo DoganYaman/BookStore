@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PatikaDev\\Patika_Pratikler\\Orta-NETCore\\NetCore\\BookStore\\WebApi\\WebApi.csproj": {}
+    "d:\\PatikaDev\\Patika_Pratikler\\Orta-NETCore\\NetCore\\BookStore\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\PatikaDev\\Patika_Pratikler\\Orta-NETCore\\NetCore\\BookStore\\WebApi\\WebApi.csproj": {
+    "d:\\PatikaDev\\Patika_Pratikler\\Orta-NETCore\\NetCore\\BookStore\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PatikaDev\\Patika_Pratikler\\Orta-NETCore\\NetCore\\BookStore\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "d:\\PatikaDev\\Patika_Pratikler\\Orta-NETCore\\NetCore\\BookStore\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\PatikaDev\\Patika_Pratikler\\Orta-NETCore\\NetCore\\BookStore\\WebApi\\WebApi.csproj",
+        "projectPath": "d:\\PatikaDev\\Patika_Pratikler\\Orta-NETCore\\NetCore\\BookStore\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\DOGAN\\.nuget\\packages\\",
-        "outputPath": "D:\\PatikaDev\\Patika_Pratikler\\Orta-NETCore\\NetCore\\BookStore\\WebApi\\obj\\",
+        "outputPath": "d:\\PatikaDev\\Patika_Pratikler\\Orta-NETCore\\NetCore\\BookStore\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DOGAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

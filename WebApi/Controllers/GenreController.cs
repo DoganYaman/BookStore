@@ -7,7 +7,6 @@ using WebApi.Application.GenreOperations.Command.UpdateGenre;
 using WebApi.Application.GenreOperations.Queries.GetGenreDetail;
 using WebApi.Application.GenreOperations.Queries.GetGenres;
 using WebApi.DBOperations;
-using WebApi.Entities;
 
 namespace WebApi.Controllers
 {
@@ -15,10 +14,10 @@ namespace WebApi.Controllers
     [Route("[controller]s")]
     public class GenreController : ControllerBase
     {
-        private readonly BookStoreDbContext _context;
+        private readonly IBookStoreDbContext _context;
         private readonly IMapper _mapper;
 
-        public GenreController(BookStoreDbContext context, IMapper mapper)
+        public GenreController(IBookStoreDbContext context, IMapper mapper)
         {
             _context = context;
             _mapper = mapper;
